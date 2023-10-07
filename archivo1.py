@@ -1,1 +1,1 @@
-print("Hola mundo en Python")
+print("Hola mundo en Python, WIP es work in progress y significa que el trabajo esta en progreso cuando se hace un git stash")
